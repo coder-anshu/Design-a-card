@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(220, 223, 225);
+   
+}
+.card{
+    background-color: aliceblue;
+    border: 2px solid rgb(247, 249, 244);
+    height: 410px;
+    width: 260px;
+    border-radius: 10px;
+    box-shadow: 2px 2px aliceblue;
+
+}
+.card img{
+   border-radius: 12px;
+   padding: 2px ;
+}
+.container{
+padding: 8px 14px ;
+
+}
+span button {
+    font-family: sans-serif;
+    background-color: rgba(236, 242, 247, 0.954s);
+    color: rgba(103, 102, 102, 0.829);
+    border-radius: 10px;
+    border: none;
+    padding: 4px 8px;
+    opacity: 0.9;
+       
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color: rgba(16, 11, 11, 0.829);
+    
+}
+p{
+    font-family: sans-serif;
+    color: rgba(103, 102, 102, 0.829);
+    font-size: 14px;
+    opacity: 0.9;
+}
+.btn{
+    text-align: center;
+}
+  .btn button{
+    
+     padding: 8px 16px;
+    border-radius: 14px ;
+    border: none;
+    color: rgb(4, 141, 200);
+    background-color: rgb(216, 234, 245);
+    
+}
